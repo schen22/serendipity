@@ -71,7 +71,7 @@ class ChatScreenState extends State<ChatScreen> with TickerProviderStateMixin {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Friendlychat")),
+      appBar: AppBar(title: Text("Serendipity")),
       body: Column(
         children: <Widget>[
           Flexible(
